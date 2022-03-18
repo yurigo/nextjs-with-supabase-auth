@@ -17,25 +17,45 @@ He creado este repositorio y he desplegado la aplicación a mano:
 
 En Vercel:
 
-1.  `  + New project`
+1.  `+ New project`
 
-    1. Si No tienes cuenta asociada a github.  ` + Add GitHub Account`
+![1](https://user-images.githubusercontent.com/5684699/158981091-d3ded437-991e-4190-ba56-422da403d0c1.PNG)
 
-    2. En GitHub, dar acceso a Vercel:
+> * Si no tienes cuenta asociada a github.  `+ Add GitHub Account`
+> 
+> ![1 1](https://user-images.githubusercontent.com/5684699/158981119-48f07bbb-49e7-4500-87fd-aea191660667.png)
+> 
+> * En GitHub, dar acceso a Vercel:
+> 
+> ![1 2](https://user-images.githubusercontent.com/5684699/158981135-97e2cfde-cf61-4dda-98f0-bfba812c1da1.PNG)
+> 
 
 2. Importar un repositorio
 
+![2](https://user-images.githubusercontent.com/5684699/158981149-c4830a41-a8f0-4ed0-b23d-ebc89be97d2d.PNG)
+
 3. Configurar el proyecto, en este caso las variables de entorno. (Se deberían encontrar en `supabase -> settings -> API` )
 
-    1. SUPABASE_URL corresponde a `Configuration URL` de supabase
-   
-    2. SUPABASE_KEY corresponde a `Project API keys anon public` de supabase
+> * SUPABASE_URL corresponde a `Configuration URL` de supabase
+> 
+> ![supabase_url](https://user-images.githubusercontent.com/5684699/158981224-c8625845-2b83-4ed8-844c-24474d8c6b30.PNG)
+> 
+> * SUPABASE_KEY corresponde a `Project API keys anon public` de supabase
+> ![supabase_key](https://user-images.githubusercontent.com/5684699/158981212-9b7f5726-d49f-439c-bf8d-d9bbdde3eaba.PNG)
+> 
 
 4. `Deploy`
 
+![deploy](https://user-images.githubusercontent.com/5684699/158981241-83beff73-1edc-41f1-af82-a4b5c0ebed69.PNG)
+
 5. Espera a que se compile...
 
-5. Profit
+![wait](https://user-images.githubusercontent.com/5684699/158981283-c8b1a126-ab99-459a-a55e-7b16bd9cb343.png)
+
+6. Profit
+
+![profit](https://user-images.githubusercontent.com/5684699/158981312-ea9c21e5-fa5d-42e5-8662-f817392d8fd6.PNG)
+
 
 
 
