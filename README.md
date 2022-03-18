@@ -25,11 +25,11 @@ En Vercel:
 
 2. Importar un repositorio
 
-3. Configurar el proyecto, en este caso las variables de entorno.
+3. Configurar el proyecto, en este caso las variables de entorno. (Se deberían encontrar en `supabase -> settings -> API` )
 
-    1. SUPABASE_URL
+    1. SUPABASE_URL corresponde a `Configuration URL` de supabase
    
-    2. SUPABASE_KEY
+    2. SUPABASE_KEY corresponde a `Project API keys anon public` de supabase
 
 4. `Deploy`
 
